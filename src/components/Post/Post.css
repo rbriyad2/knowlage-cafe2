@@ -1,0 +1,109 @@
+.postimg{
+    width: 100%;
+    height: 450px;
+    cursor: pointer;
+}
+.authordetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.authorinfo img {
+    margin-right: 24px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.authorinfo {
+    display: flex;
+    align-items: center;
+}
+
+.authorname {
+    color: #111111;
+    font-size: 24px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+
+.postdate {
+    color: rgba(17, 17, 17, 0.60);
+    font-size: 16px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+}
+
+.postinfo {
+    display: flex;
+    align-items: center;
+}
+
+.postinfo p {
+    margin-right: 8px;
+}
+
+.readtime {
+    color: rgba(17, 17, 17, 0.60);
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500;
+}
+
+.bokmaricon {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.posttitle {
+    color: #111111;
+    font-size: 40px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.posttag {
+    color: rgba(17, 17, 17, 0.60);
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.markread {
+    color: #6047EC;
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.posthr{
+    margin-bottom: 40px;
+}
+
+@media (max-width: 575px){
+    .posttitle {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 25px;
+    }
+    .postimg{
+        height: 350px;
+    }
+    .authorname {
+        font-size: 18px;
+        font-weight: 700;
+    
+    }
+    
+}

@@ -1,0 +1,41 @@
+.spendTime{
+    background: rgba(96, 71, 236, 0.10);
+    border-radius: 8px;
+    border: 0.50px #6047EC solid;
+    text-align: center;
+}
+.spendTime h4{
+color: #6047EC;
+font-size: 24px;
+font-family: 'Exo 2', sans-serif;
+font-weight: 700;
+}
+.bookmarks{
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 30px;
+    margin-top: 24px;
+}
+.bookmarks h3{
+    color: #111111;
+font-size: 24px;
+font-family: 'Exo 2', sans-serif;
+font-weight: 700;
+}
+.bookmarkheading{
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 16px;
+
+}
+.bookmarkheading h5{
+    color: #111111;
+font-size: 18px;
+font-family: 'Exo 2', sans-serif;
+font-weight: 600;
+line-height: 28.80px;
+margin: 0;
+cursor: pointer;
+}
+

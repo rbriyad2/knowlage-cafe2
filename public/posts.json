@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "authorname": "Mr. Raju",
+        "title": "How to get your first job as a self-taught programmer",
+        "date": "Mar 12 (4 days ago)",
+        "img": "https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "usericon": "./images/user3.png",
+        "readtime": "5",
+        "tag": "#beginners #programming"
+    },
+    {
+        "id": "02",
+        "authorname": "Mrs. Setara",
+        "title": "Weare in a metting for a new programmer comunity making",
+        "date": "Feb 15 (4 days ago)",
+        "img": "https://images.pexels.com/photos/3184657/pexels-photo-3184657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "usericon": "./images/user1.png",
+        "readtime": "6",
+        "tag": "#Metting #Friends"
+    },
+    {
+        "id": "03",
+        "authorname": "Mina Mostofa",
+        "title": "How to learn Node Js with React js from programming hero",
+        "date": "Feb 15 (4 days ago)",
+        "img": "https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "usericon": "./images/user2.png",
+        "readtime": "4",
+        "tag": "#Easy-learn #Node-JS"
+    },
+    {
+        "id": "04",
+        "authorname": "Mustak Hossain",
+        "title": "How to learn React JS with Programming Hero",
+        "date": "Feb 15 (4 days ago)",
+        "img": "https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "usericon": "./images/user.png",
+        "readtime": "7",
+        "tag": "#Learnning #Programming"
+    }
+]
